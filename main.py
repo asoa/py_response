@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 import tkinter as tk
-from tkinter.ttk import Notebook
-from pReponse.app import Application
+from app import Application
 
 def main():
     root = tk.Tk()  # instantiate root window
